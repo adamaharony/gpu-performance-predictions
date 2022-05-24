@@ -1,0 +1,46 @@
+Name,Link,Year,GRAPHICS PROCESSOR,PIXEL SHADERS,VERTEX SHADERS,TMUS,ROPS,MEMORY SIZE,MEMORY TYPE,BUS WIDTH,GPU Name,GPU Variant,Architecture,Foundry,Process Size,Transistors,Die Size,Release Date,Generation,Production,Launch Price,GPU Clock,Memory Clock,Memory Size,Memory Type,Memory Bus,Bandwidth,Pixel Shaders,Vertex Shaders,TMUs,ROPs,Pixel Rate,Vertex Rate,Texture Rate,Length,Width,Height,Weight,TDP,Outputs,DirectX,OpenGL,OpenCL,Vulkan,Shader Model,Pixel Shader,Vertex Shader
+Playstation Vita GPU,https://www.techpowerup.com/gpu-specs/playstation-vita-gpu.c3711,2011,SGX543 MP4+,4,2,8,4,128 MB,CDRAM,64 bit,SGX543 MP4+,CXD5315GG,PowerVR Series5XT,Samsung,32 nm,unknown,6 mm²,"Dec 11th, 2011","Console GPU
+(Sony)",End-of-life,249 USD,200 MHz,400 MHz,128 MB,CDRAM,64 bit,3.200 GB/s,4,2,8,4,800.0 MPixel/s,100.0 MVertices/s,1.600 GTexel/s,"182 mm
+7.2 inches","19 mm
+0.7 inches","84 mm
+3.3 inches",260 g (0.57 lbs),4 W,No outputs,10.1,ES 2.0,N/A,N/A,4.1,,
+Playstation 2 GPU 65nm,https://www.techpowerup.com/gpu-specs/playstation-2-gpu-65nm.c3706,2007,EE+GS-65nm,16,2,8,16,4 MB,eDRAM,2560 bit,EE+GS-65nm,CXD2976GB,,Sony,65 nm,54 million,86 mm²,"Jul 1st, 2007","Console GPU
+(Sony)",End-of-life,149 USD,147 MHz,150 MHz,4 MB,eDRAM,2560 bit,48.00 GB/s,16,2,8,16,2.352 GPixel/s,73.50 MVertices/s,1.176 GTexel/s,"230 mm
+9.1 inches","28 mm
+1.1 inches","152 mm
+6 inches",0.60 kg (1.32 lbs),45 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
+Playstation Portable GPU 65nm,https://www.techpowerup.com/gpu-specs/playstation-portable-gpu-65nm.c3710,2007,RE+SE-65nm,2,1,5,5,2 MB,eDRAM,512 bit,RE+SE-65nm,CXD5029-304GG,,Sony,65 nm,unknown,unknown,"Aug 30th, 2007","Console GPU
+(Sony)",End-of-life,249 USD,133 MHz,83 MHz,2 MB,eDRAM,512 bit,5.312 GB/s,2,1,5,5,665.0 MPixel/s,33.25 MVertices/s,665.0 MTexel/s,"169 mm
+6.7 inches","19 mm
+0.7 inches","71 mm
+2.8 inches",189 g (0.42 lbs),4 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
+Playstation 2 GPU 90nm,https://www.techpowerup.com/gpu-specs/playstation-2-gpu-90nm.c3704,2005,EE+GS-90nm,16,2,8,16,4 MB,eDRAM,2560 bit,EE+GS-90nm,CXD2953AGB,,Sony,90 nm,54 million,86 mm²,"May 26th, 2005","Console GPU
+(Sony)",End-of-life,199 USD,147 MHz,150 MHz,4 MB,eDRAM,2560 bit,48.00 GB/s,16,2,8,16,2.352 GPixel/s,73.50 MVertices/s,1.176 GTexel/s,"230 mm
+9.1 inches","28 mm
+1.1 inches","152 mm
+6 inches",0.90 kg (1.98 lbs),45 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
+Playstation Portable GPU 90nm,https://www.techpowerup.com/gpu-specs/playstation-portable-gpu-90nm.c3709,2004,RE+SE-90nm,2,1,5,5,2 MB,eDRAM,512 bit,RE+SE-90nm,CXD1876-102GG,,Sony,90 nm,unknown,unknown,"Dec 12th, 2004","Console GPU
+(Sony)",End-of-life,249 USD,133 MHz,83 MHz,2 MB,eDRAM,512 bit,5.312 GB/s,2,1,5,5,665.0 MPixel/s,33.25 MVertices/s,665.0 MTexel/s,"170 mm
+6.7 inches","23 mm
+0.9 inches","74 mm
+2.9 inches",280 g (0.62 lbs),4 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
+Playstation 2 GPU 180nm,https://www.techpowerup.com/gpu-specs/playstation-2-gpu-180nm.c3705,2001,GS-180nm,16,2,8,16,4 MB,eDRAM,2560 bit,GS-180nm,CXD2944GB,,Sony,180 nm,54 million,188 mm²,"Apr 18th, 2001","Console GPU
+(Sony)",End-of-life,299 USD,147 MHz,150 MHz,4 MB,eDRAM,2560 bit,48.00 GB/s,16,2,8,16,2.352 GPixel/s,73.50 MVertices/s,1.176 GTexel/s,"302 mm
+11.9 inches","79 mm
+3.1 inches","183 mm
+7.2 inches",2.2 kg (4.85 lbs),79 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
+Playstation 2 GPU 250nm,https://www.techpowerup.com/gpu-specs/playstation-2-gpu-250nm.c3702,2000,GS-250nm,16,2,8,16,4 MB,eDRAM,2560 bit,GS-250nm,CXD2934GB,,Sony,250 nm,54 million,279 mm²,"Mar 4th, 2000","Console GPU
+(Sony)",End-of-life,299 USD,147 MHz,150 MHz,4 MB,eDRAM,2560 bit,48.00 GB/s,16,2,8,16,2.352 GPixel/s,73.50 MVertices/s,1.176 GTexel/s,"302 mm
+11.9 inches","79 mm
+3.1 inches","183 mm
+7.2 inches",2.2 kg (4.85 lbs),79 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
+Playstation GPU 350nm,https://www.techpowerup.com/gpu-specs/playstation-gpu-350nm.c3708,1997,GTE-2,2,1,3,1,1 MB,SGRAM,32 bit,GTE-2,CXD8561CQ,,Sony,350 nm,1 million,128 mm²,"Nov 13th, 1997","Console GPU
+(Sony)",End-of-life,299 USD,53 MHz,33 MHz,1 MB,SGRAM,32 bit,132.0 MB/s,2,1,3,1,53.00 MPixel/s,13.25 MVertices/s,159.0 MTexel/s,"270 mm
+10.6 inches","60 mm
+2.4 inches","188 mm
+7.4 inches",1.40 kg (3.09 lbs),10 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
+Playstation GPU 600nm,https://www.techpowerup.com/gpu-specs/playstation-gpu-600nm.c3707,1994,GTE,2,1,3,1,1 MB,VRAM,32 bit,GTE,CXD8514Q,,Sony,600 nm,1 million,128 mm²,"Dec 3rd, 1994","Console GPU
+(Sony)",End-of-life,299 USD,53 MHz,33 MHz,1 MB,VRAM,32 bit,132.0 MB/s,2,1,3,1,53.00 MPixel/s,13.25 MVertices/s,159.0 MTexel/s,"270 mm
+10.6 inches","60 mm
+2.4 inches","188 mm
+7.4 inches",1.50 kg (3.31 lbs),11 W,No outputs,N/A,N/A,N/A,N/A,,N/A,N/A
