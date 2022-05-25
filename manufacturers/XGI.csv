@@ -1,17 +1,76 @@
-,Name,Link,Year
-0,Volari 8300,https://www.techpowerup.com/gpu-specs/volari-8300.c3379,2005
-1,Volari 8600 XT,https://www.techpowerup.com/gpu-specs/volari-8600-xt.c3380,2005
-2,Volari Duo V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v5-ultra.c89,2003
-3,Volari Duo V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v5-ultra.c90,2003
-4,Volari Duo V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v8-ultra.c91,2003
-5,Volari Duo V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v8-ultra.c92,2003
-6,Volari V3,https://www.techpowerup.com/gpu-specs/volari-v3.c1198,2003
-7,Volari V3 XT,https://www.techpowerup.com/gpu-specs/volari-v3-xt.c1197,2003
-8,Volari V5,https://www.techpowerup.com/gpu-specs/volari-v5.c81,2003
-9,Volari V5,https://www.techpowerup.com/gpu-specs/volari-v5.c83,2003
-10,Volari V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-v5-ultra.c82,2003
-11,Volari V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-v5-ultra.c84,2003
-12,Volari V8,https://www.techpowerup.com/gpu-specs/volari-v8.c85,2003
-13,Volari V8,https://www.techpowerup.com/gpu-specs/volari-v8.c86,2003
-14,Volari V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-v8-ultra.c87,2003
-15,Volari V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-v8-ultra.c88,2003
+Name,Link,Year,GRAPHICS PROCESSOR,PIXEL SHADERS,VERTEX SHADERS,TMUS,ROPS,MEMORY SIZE,MEMORY TYPE,BUS WIDTH,GPU Name,Architecture,Foundry,Process Size,Transistors,Die Size,Release Date,Generation,Production,Bus Interface,Reviews,GPU Clock,Memory Clock,Memory Size,Memory Type,Memory Bus,Bandwidth,Pixel Shaders,Vertex Shaders,TMUs,ROPs,Pixel Rate,Vertex Rate,Texture Rate,Slot Width,TDP,Suggested PSU,Outputs,DirectX,OpenGL,OpenCL,Vulkan,Shader Model,Pixel Shader,Vertex Shader,GPU Variant,Power Connectors,Board Number
+Volari 8300,https://www.techpowerup.com/gpu-specs/volari-8300.c3379,2005,XG47,4,2,8,4,128 MB,DDR,64 bit,XG47,XG4,UMC,130 nm,90 million,unknown,"Nov 1st, 2005","XG40
+(Volari 8000)",End-of-life,PCIe 1.0 x16,3 in our database,300 MHz,"300 MHz
+600 Mbps effective",128 MB,DDR,64 bit,4.800 GB/s,4,2,8,4,1.200 GPixel/s,150.0 MVertices/s,2.400 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0c,2.1,N/A,N/A,3.0,,,,,
+Volari 8600 XT,https://www.techpowerup.com/gpu-specs/volari-8600-xt.c3380,2005,XG45,8,2,8,4,256 MB,GDDR3,128 bit,XG45,XG4,UMC,110 nm,unknown,unknown,Never Released,"XG40
+(Volari 8000)",End-of-life,PCIe 1.0 x16,,450 MHz,"450 MHz
+900 Mbps effective",256 MB,GDDR3,128 bit,14.40 GB/s,8,2,8,4,1.800 GPixel/s,225.0 MVertices/s,3.600 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0c,2.1,N/A,N/A,3.0,,,,,
+Volari Duo V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v5-ultra.c89,2003,XG41 x2,2 x2,2 x2,4 x2,2 x2,256 MB x2,DDR,256 bit x2,XG41,XG4,UMC,130 nm,90 million,unknown,"Sep 15th, 2003","XG40
+(Volari V5)",End-of-life,AGP 8x,,350 MHz,"375 MHz
+750 Mbps effective",256 MB,DDR,256 bit,24.00 GB/s,2,2,4,2,700.0 MPixel/s,175.0 MVertices/s,1.400 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.4,N/A,N/A,,2.0,2.0,,,
+Volari Duo V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v5-ultra.c90,2003,XG41 x2,2 x2,2 x2,4 x2,2 x2,256 MB x2,DDR2,256 bit x2,XG41,XG4,UMC,130 nm,90 million,unknown,"Sep 15th, 2003","XG40
+(Volari V5)",End-of-life,AGP 8x,,350 MHz,"500 MHz
+1000 Mbps effective",256 MB,DDR2,256 bit,32.00 GB/s,2,2,4,2,700.0 MPixel/s,175.0 MVertices/s,1.400 GTexel/s,Single-slot,unknown,200 W,No outputs,9.0,1.4,N/A,N/A,,2.0,2.0,,,
+Volari Duo V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v8-ultra.c91,2003,XG40 x2,4 x2,2 x2,8 x2,4 x2,256 MB x2,DDR,256 bit x2,XG40,XG4,UMC,130 nm,110 million,unknown,"Sep 15th, 2003","XG40
+(Volari V8)",End-of-life,AGP 8x,6 in our database,350 MHz,"375 MHz
+750 Mbps effective",256 MB,DDR,256 bit,24.00 GB/s,4,2,8,4,1.400 GPixel/s,175.0 MVertices/s,2.800 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.5,N/A,N/A,,2.0,2.0,Volari V8 Ultra,2x Molex,
+Volari Duo V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-duo-v8-ultra.c92,2003,XG40 x2,4 x2,2 x2,8 x2,4 x2,128 MB x2,DDR2,128 bit x2,XG40,XG4,UMC,130 nm,110 million,unknown,"Sep 15th, 2003","XG40
+(Volari V8)",End-of-life,AGP 8x,6 in our database,350 MHz,"500 MHz
+1000 Mbps effective",128 MB,DDR2,128 bit,16.00 GB/s,4,2,8,4,1.400 GPixel/s,175.0 MVertices/s,2.800 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.5,N/A,N/A,,2.0,2.0,Volari V8 Ultra,2x Molex,
+Volari V3,https://www.techpowerup.com/gpu-specs/volari-v3.c1198,2003,XG42,2,1,4,2,128 MB,DDR,128 bit,XG42,XG4,UMC,130 nm,25 million,unknown,"Sep 15th, 2003","XG40
+(Volari V3)",End-of-life,AGP 8x,2 in our database,200 MHz,"200 MHz
+400 Mbps effective",128 MB,DDR,128 bit,6.400 GB/s,2,1,4,2,400.0 MPixel/s,50.00 MVertices/s,800.0 MTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",8.1,1.3,N/A,N/A,,1.3,1.1,,,
+Volari V3 XT,https://www.techpowerup.com/gpu-specs/volari-v3-xt.c1197,2003,XG42,2,1,4,2,128 MB,DDR,128 bit,XG42,XG4,UMC,130 nm,25 million,unknown,"Sep 15th, 2003","XG40
+(Volari V3)",End-of-life,AGP 8x,2 in our database,250 MHz,"207 MHz
+414 Mbps effective",128 MB,DDR,128 bit,6.624 GB/s,2,1,4,2,500.0 MPixel/s,62.50 MVertices/s,1.000 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",8.1,1.3,N/A,N/A,,1.3,1.1,XG42 V3XT,,D134
+Volari V5,https://www.techpowerup.com/gpu-specs/volari-v5.c81,2003,XG41,2,2,4,2,256 MB,DDR,128 bit,XG41,XG4,UMC,130 nm,90 million,unknown,"Sep 15th, 2003","XG40
+(Volari V5)",End-of-life,AGP 8x,,325 MHz,"325 MHz
+650 Mbps effective",256 MB,DDR,128 bit,10.40 GB/s,2,2,4,2,650.0 MPixel/s,162.5 MVertices/s,1.300 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.4,N/A,N/A,,2.0,2.0,,,
+Volari V5,https://www.techpowerup.com/gpu-specs/volari-v5.c83,2003,XG41,2,2,4,2,256 MB,DDR2,128 bit,XG41,XG4,UMC,130 nm,90 million,unknown,"Sep 15th, 2003","XG40
+(Volari V5)",End-of-life,AGP 8x,,325 MHz,"450 MHz
+900 Mbps effective",256 MB,DDR2,128 bit,14.40 GB/s,2,2,4,2,650.0 MPixel/s,162.5 MVertices/s,1.300 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.4,N/A,N/A,,2.0,2.0,,,
+Volari V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-v5-ultra.c82,2003,XG41,2,2,4,2,256 MB,DDR,128 bit,XG41,XG4,UMC,130 nm,90 million,unknown,"Sep 15th, 2003","XG40
+(Volari V5)",End-of-life,AGP 8x,,350 MHz,"375 MHz
+750 Mbps effective",256 MB,DDR,128 bit,12.00 GB/s,2,2,4,2,700.0 MPixel/s,175.0 MVertices/s,1.400 GTexel/s,Single-slot,unknown,200 W,No outputs,9.0,1.4,N/A,N/A,,2.0,2.0,,,
+Volari V5 Ultra,https://www.techpowerup.com/gpu-specs/volari-v5-ultra.c84,2003,XG41,2,2,4,2,256 MB,DDR2,128 bit,XG41,XG4,UMC,130 nm,90 million,unknown,"Sep 15th, 2003","XG40
+(Volari V5)",End-of-life,AGP 8x,,350 MHz,"500 MHz
+1000 Mbps effective",256 MB,DDR2,128 bit,16.00 GB/s,2,2,4,2,700.0 MPixel/s,175.0 MVertices/s,1.400 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.4,N/A,N/A,,2.0,2.0,,,
+Volari V8,https://www.techpowerup.com/gpu-specs/volari-v8.c85,2003,XG40,4,2,8,4,256 MB,DDR,128 bit,XG40,XG4,UMC,130 nm,110 million,unknown,"Sep 15th, 2003","XG40
+(Volari V8)",End-of-life,AGP 8x,6 in our database,300 MHz,"325 MHz
+650 Mbps effective",256 MB,DDR,128 bit,10.40 GB/s,4,2,8,4,1.200 GPixel/s,150.0 MVertices/s,2.400 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.5,N/A,N/A,,2.0,2.0,,,
+Volari V8,https://www.techpowerup.com/gpu-specs/volari-v8.c86,2003,XG40,4,2,8,4,256 MB,DDR2,128 bit,XG40,XG4,UMC,130 nm,110 million,unknown,"Sep 15th, 2003","XG40
+(Volari V8)",End-of-life,AGP 8x,6 in our database,300 MHz,"450 MHz
+900 Mbps effective",256 MB,DDR2,128 bit,14.40 GB/s,4,2,8,4,1.200 GPixel/s,150.0 MVertices/s,2.400 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA",9.0,1.5,N/A,N/A,,2.0,2.0,,,
+Volari V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-v8-ultra.c87,2003,XG40,4,2,8,4,256 MB,DDR,128 bit,XG40,XG4,UMC,130 nm,110 million,unknown,"Sep 15th, 2003","XG40
+(Volari V8)",End-of-life,AGP 8x,6 in our database,350 MHz,"375 MHz
+750 Mbps effective",256 MB,DDR,128 bit,12.00 GB/s,4,2,8,4,1.400 GPixel/s,175.0 MVertices/s,2.800 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.5,N/A,N/A,,2.0,2.0,,,
+Volari V8 Ultra,https://www.techpowerup.com/gpu-specs/volari-v8-ultra.c88,2003,XG40,4,2,8,4,256 MB,DDR2,128 bit,XG40,XG4,UMC,130 nm,110 million,unknown,"Sep 15th, 2003","XG40
+(Volari V8)",End-of-life,AGP 8x,,350 MHz,"500 MHz
+1000 Mbps effective",256 MB,DDR2,128 bit,16.00 GB/s,4,2,8,4,1.400 GPixel/s,175.0 MVertices/s,2.800 GTexel/s,Single-slot,unknown,200 W,"1x DVI
+1x VGA
+1x S-Video",9.0,1.5,N/A,N/A,,2.0,2.0,,,
